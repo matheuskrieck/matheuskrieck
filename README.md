@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <h1>👋 Hi, I’m Matheus</h1> 
    <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/matheuskrieck" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <p><img src="https://komarev.com/ghpvc/?username=matheuskrieck&style=flat-square&color=blue" alt=""/></p>
@@ -10,7 +10,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - I’m studying to become a Web Developer,<br>
 currently learning JavaScript, and also building some projects to start a portfolio.
 - In my free time, I like to watch anime, movies and play videogames.
