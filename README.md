@@ -2,7 +2,6 @@
 
 ### 🤝 Connect with me
 [<img align="left" alt="matheuskrieck | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
-[<img align="center" alt="tassia.accioly | Gmail" width="22px" src="./gmail.png" />][gmail]
 
 ## 🌱 I'm currently learning
 - ReactJS
@@ -24,4 +23,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskrieck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/matheuskrieck/
-[gmail]: mailto:matheus.krieck@gmail.com
