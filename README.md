@@ -1,33 +1,27 @@
-<div id="header" align="center">
-   <h1>Hello! 👋<br>
-    I’m Matheus</h1> 
-   <div id="badges">
-    <a href="https://www.linkedin.com/in/matheuskrieck" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-</div>
+# Hi, I'm Matheus Krieck! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
----
+### 🤝 Connect with me
+[<img align="left" alt="matheuskrieck | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
+[<img align="center" alt="tassia.accioly | Gmail" width="22px" src="./gmail.png" />][gmail]
 
-### :man_technologist: About Me :
-- I’m studying to become a Web Developer,<br>
-currently learning JavaScript, and also building some projects to start a portfolio.
-- In my free time, I like to watch anime, movies and play videogames.
+## 🌱 I'm currently learning
+- ReactJS
 
----
+## 💼 Technical Skills
+![HTML5](https://img.shields.io/badge/-HTML%205-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS%203-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-</div>
+## 🛠️ Tools & Utilities:
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
----
-
-### :fire: My Stats :
+## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskrieck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/matheuskrieck/
+[gmail]: mailto:matheus.krieck@gmail.com
