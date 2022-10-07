@@ -1,6 +1,4 @@
-# Hi, I'm Matheus Krieck! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-##### [<img align="center" alt="matheuskrieck | LinkedIn" width="22px" src="./linkedin.png" />][linkedin] Let's Connect!
+# Hi, I'm [Matheus](https://www.linkedin.com/in/matheuskrieck/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### 🌱 I'm currently learning
 - ReactJS
@@ -24,5 +22,3 @@
 
 ### 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskrieck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[linkedin]: https://www.linkedin.com/in/matheuskrieck/
